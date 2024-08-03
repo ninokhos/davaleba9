@@ -87,4 +87,4 @@ console.log(sum);
 console.log(student.firstName);
 console.log(student.age);
 
-//  ვიცი ბევრი სისულელე მიწერია :((
+//  ვიცი ბევრი სისულელე მიწერია :(
